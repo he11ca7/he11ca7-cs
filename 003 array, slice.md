@@ -215,4 +215,4 @@ fmt.Println(len(s8), cap(s8), s8) // 4 4 [3 4 88 66]
 ```
 
 Результат в памяти:
-![](slice-subslice.png)
+![](pic/slice-subslice.png)
