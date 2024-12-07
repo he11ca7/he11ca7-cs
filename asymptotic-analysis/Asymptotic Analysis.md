@@ -30,7 +30,7 @@ $f(n) ∈ Ω(g(n))$, если:
 - $∃ n_0, 1 < n_0 ≤ n$
 - $f(n) ≥ k×g(n)$
 
-![](Untitled 1.png)
+![](Untitled1.png)
 
 ## Big-Θ
 
@@ -42,7 +42,7 @@ $f(n) ∈ Θ(g(n))$, если:
 - $∃ n_0, 0 ≤ n_0 ≤ n$
 - $k_1×g(n) ≤ f(n) ≤ k_2×g(n)$
 
-![](Untitled 2.png)
+![](Untitled2.png)
 
 ## Big-O, Big-Ω (omega), Big-Θ (theta), на примере Quick Sort
 
@@ -62,7 +62,7 @@ o и ω обозначают то же, что соответственно O и
 
 ## Типичные функции O и их порядки роста
 
-![](Untitled 3.png)
+![](Untitled3.png)
 
 - $O(1)$, $O(N^0)$ - constant
 - $O(logN)$ - logarithmic (binary search)
