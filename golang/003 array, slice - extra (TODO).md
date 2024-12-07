@@ -1,3 +1,0 @@
-...
->[!TODO]
->Продолжить https://go101.org/article/container.html с Convert Slice to Array Pointer и подобных ему
