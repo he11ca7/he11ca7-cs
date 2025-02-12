@@ -13,7 +13,7 @@ continue  for          import  return     var
 - `var`, `const`, `type`, `func`, `package`, `import` используются для объявлений
 - `struct`, `map`, `interface`, `chan` используются как обозначения составных типов
 - `return`, `goto`, `if`, `else`, `for`, `range`, `break`, `continue`, `case`, `default`, `fallthrough`, `select`, `switch` ипользуются для управления потоком
-- `defet`, `go` так же используются для управления потоком, но в специфических манерах
+- `defer`, `go` так же используются для управления потоком, но в специфических манерах
 
 # Базовые типы
 Базовые типы:
